@@ -1,7 +1,7 @@
-```markdown
+<img width="956" height="506" alt="Screenshot 2025-07-13 212357" src="https://github.com/user-attachments/assets/b77dac2b-6832-483a-90c9-fb7c477724d9" />```markdown
 # Imagify - Image Downloader
 
-![Imagify Logo](https://via.placeholder.com/150)  <!-- Replace with actual logo if available -->
+<img width="36" height="26" alt="Screenshot 2025-07-13 212423" src="https://github.com/user-attachments/assets/087c524b-177f-4a98-8e1a-0d78faadb2ee" />
 
 Imagify is a user-friendly desktop application built with Python and CustomTkinter that allows you to download high-quality images from Bing's image search API with ease.
 
@@ -58,8 +58,8 @@ Imagify is a user-friendly desktop application built with Python and CustomTkint
 
 ## Screenshots
 
-![Main Window](https://via.placeholder.com/600x400)  <!-- Replace with actual screenshot -->
-![Download Progress](https://via.placeholder.com/600x400)  <!-- Replace with actual screenshot -->
+<img width="956" height="506" alt="Screenshot 2025-07-13 212357" src="https://github.com/user-attachments/assets/c5a8c5ab-cd8c-4cb8-8010-cf6ecfd515e9" />
+
 
 ## Contributing
 
